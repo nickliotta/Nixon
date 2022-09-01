@@ -1,6 +1,8 @@
 # Alzheimer's disease datasets
 Three datasets of Alzheimer's disease Sequence Read Archive (SRA) data for Nixon Laboratory; abstracts included.
 
+<hr />
+
 #### Alteration of the microRNA network during the progression of Alzheimer’s disease
 > We report the high-throughput profiling of microRNAs (miRNAs) from the prefrontal cortex of controls, early and late-stages Alzheimer's disease subjects. We show miRNA expression changes between the two groups and down-regulation of miR-132-3p in the late-stages group. Overall design: Deep-sequencing of microiRNAs in 6 controls/early-stages and 6 late-stages Alzheimer's disease patients[^1]
 
